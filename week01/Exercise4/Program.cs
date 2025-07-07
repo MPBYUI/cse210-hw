@@ -15,7 +15,6 @@ class Program
         List<int> numbers = new List<int>();
 
         int inputNumbers = -1;
-        Console.WriteLine("Please dont grade the functionality of the program as i had to rely on the sample soultuion");
         while (inputNumbers != 0)
         {
             Console.Write("Enter a list of numbers, type 0 when finished. ");
